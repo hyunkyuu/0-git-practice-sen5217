@@ -10,3 +10,6 @@ While prompt engineering continues to evole and grow in importance, the article 
 
 ### Why I Found it Interesting
 I found the relationship between prompt engineering and software engineering really interesting—especially as computer science students, many of us already use AI as a learning tool. It’s something to consider how prompt engineering might evolve into a meaningful part of our future careers. 
+
+#### Comments
+Hyunkyu Park: It was interesting that the article doesn’t just praise prompt engineering, but also highlights its weaknesses, such as variability and unpredictability. I found the clear distinction between where prompts are useful and where programming is still necessary very realistic. From my own experience, detailed, step-by-step prompts tend to be more effective.
